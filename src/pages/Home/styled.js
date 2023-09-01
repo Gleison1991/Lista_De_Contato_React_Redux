@@ -9,8 +9,10 @@ export const Section = styled.section`
 `;
 
 export const AddContact = styled.a`
-    background-color: gray;
+    background-color: green;
     border: 1px solid black;
     padding: 11px;
     color: white;
+    border-radius: 10px;
+    margin-top: 15px;
 `;

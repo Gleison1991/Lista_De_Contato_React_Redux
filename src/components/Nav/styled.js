@@ -9,6 +9,7 @@ export const NavBar = styled.nav`
   align-items: center;
   justify-content: center;
   background-color: #225387;
+  font-size: 25px;
 
   a {
     color: white;

@@ -52,7 +52,8 @@ export default createGlobalStyle`
                     background-color: blue;
                     color: white;
                     padding: 6px;
-                    margin-right: 11px;
+                    margin-right: 15px;
+                    border-radius: 10px;
                 }
 
                 button {
@@ -63,6 +64,7 @@ export default createGlobalStyle`
                     border: none;
                     cursor: pointer;
                     font-size: 1rem;
+                    border-radius: 10px;
                 }
             }
         }

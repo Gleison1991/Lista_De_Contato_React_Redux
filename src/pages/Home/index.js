@@ -26,7 +26,7 @@ export default function Home() {
 						<th>Nome</th>
 						<th>Email</th>
 						<th>Número</th>
-						<th>Action</th>
+						<th>Opção</th>
 					</tr>
 				</thead>
 				<tbody>
